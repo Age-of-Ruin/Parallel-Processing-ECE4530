@@ -1,0 +1,3 @@
+p1c: Lab1_Program1c.cpp
+	g++ -o p1c_serial Lab1_Program1c.cpp
+	mpicxx -DHAVEMPI -o p1c_parallel Lab1_Program1c.cpp

@@ -1,0 +1,163 @@
+2 Processors
+
+The average centroid across all processors is (-0.00875797, 0.00346223, 0.0205298)
+
+***** Input Mesh *****
+Rank 0
+Number of Elements: 5677
+Number of Vertices: 2728
+
+Rank 1
+Number of Elements: 6013
+Number of Vertices: 2749
+
+Global
+Number of Elements: 11690
+Number of Vertices: 5477
+
+***** Output Mesh *****
+Rank 0
+Number of Elements: 5845
+Number of Vertices: 1517
+
+Rank 1
+Number of Elements: 5845
+Number of Vertices: 1509
+
+Global
+Number of Elements: 11690
+Number of Vertices: 3026
+
+
+4 Processors
+
+The average centroid across all processors is (-0.00875797, 0.00346223, 0.0205298)
+
+***** Input Mesh *****
+Rank 0
+Number of Elements: 2671
+Number of Vertices: 2411
+
+Rank 1
+Number of Elements: 3007
+Number of Vertices: 2572
+
+Rank 2
+Number of Elements: 3006
+Number of Vertices: 2622
+
+Rank 3
+Number of Elements: 3006
+Number of Vertices: 2651
+
+Global
+Number of Elements: 11690
+Number of Vertices: 10256
+
+***** Output Mesh *****
+Rank 0
+Number of Elements: 2922
+Number of Vertices: 829
+
+Rank 1
+Number of Elements: 2923
+Number of Vertices: 827
+
+Rank 2
+Number of Elements: 2922
+Number of Vertices: 821
+
+Rank 3
+Number of Elements: 2923
+Number of Vertices: 837
+
+Global
+Number of Elements: 11690
+Number of Vertices: 3314
+
+
+9 Processors
+
+The average centroid across all processors is (-0.00875797, 0.00346223, 0.0205298)
+
+***** Input Mesh *****
+Rank 0
+Number of Elements: 1001
+Number of Vertices: 1584
+
+Rank 1
+Number of Elements: 1337
+Number of Vertices: 2013
+
+Rank 2
+Number of Elements: 1336
+Number of Vertices: 2101
+
+Rank 3
+Number of Elements: 1336
+Number of Vertices: 2098
+
+Rank 4
+Number of Elements: 1336
+Number of Vertices: 2105
+
+Rank 5
+Number of Elements: 1336
+Number of Vertices: 2160
+
+Rank 6
+Number of Elements: 1336
+Number of Vertices: 2221
+
+Rank 7
+Number of Elements: 1336
+Number of Vertices: 2190
+
+Rank 8
+Number of Elements: 1336
+Number of Vertices: 2180
+
+Global
+Number of Elements: 11690
+Number of Vertices: 18652
+
+***** Output Mesh *****
+Rank 0
+Number of Elements: 1298
+Number of Vertices: 408
+
+Rank 1
+Number of Elements: 1299
+Number of Vertices: 409
+
+Rank 2
+Number of Elements: 1299
+Number of Vertices: 409
+
+Rank 3
+Number of Elements: 1299
+Number of Vertices: 402
+
+Rank 4
+Number of Elements: 1299
+Number of Vertices: 405
+
+Rank 5
+Number of Elements: 1299
+Number of Vertices: 405
+
+Rank 6
+Number of Elements: 1299
+Number of Vertices: 407
+
+Rank 7
+Number of Elements: 1299
+Number of Vertices: 452
+
+Rank 8
+Number of Elements: 1299
+Number of Vertices: 413
+
+Global
+Number of Elements: 11690
+Number of Vertices: 3710

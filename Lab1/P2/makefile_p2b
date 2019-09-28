@@ -1,0 +1,2 @@
+p2b: Lab1_Program2b.cpp
+	mpicxx -o p2b Lab1_Program2b.cpp

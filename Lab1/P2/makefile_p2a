@@ -1,0 +1,2 @@
+p2a: Lab1_Program2a.cpp
+	mpicxx -o p2a Lab1_Program2a.cpp
