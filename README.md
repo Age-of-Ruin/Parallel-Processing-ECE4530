@@ -1,0 +1,2 @@
+# Parallel Processing (ECE4530)
+Covered topics like speed up (including Amdhal's Law and Gustafson's Law), Message-Passing Interface (MPI), load balancing, partitioning strategies, and evaluation of parallel programs/algorithms. Also discussed GPU acceleration via OpenCL and CUDA. 
