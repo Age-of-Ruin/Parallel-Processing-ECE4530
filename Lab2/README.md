@@ -1,0 +1,2 @@
+# Parallel Image Manipulation
+This program starts by rasterizing an image and spliting a portion of the image between each processor. Each processor then performs the user requested modification (ie either blur, greyscale, or contrast enhance), then sends its respective portion of P(0) to reconstruct the final image.

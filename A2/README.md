@@ -1,0 +1,2 @@
+# Conways Game of Life
+This program implements a parallel version of Conway's Game of Life. It works by generating a random initial solution space/game board, splitting the solution space amoungst the processors, performing any evolutions/updates to the board, then recombining and displaying/visualizing each iteration/generation by coloring the appropriate pixels.

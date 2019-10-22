@@ -1,0 +1,2 @@
+# Mesh Partitioning and Orthogonal Recursive Bisection (ORB)
+This lab involves sorting a 3D mesh (containing centroids) between processors using a bucket sort. Once loosely sorted, the program implements an ORB routine to spacially associate each element/centroid to a given processor (such that each processor has a near equal amount of elements, and each processor constitutes a contigous area of the mesh/group of elements).
